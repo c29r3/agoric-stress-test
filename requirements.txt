@@ -1,0 +1,7 @@
+pathlib
+bech32
+certifi
+chardet
+ecdsa
+cosmospy
+requests
